@@ -5,9 +5,8 @@ according to the given parameters such as nitrogen , potassium ,rainfall , soil 
 # Appications
 finding the correct crop that can be grown and the cautionary actions that can be taken for the crop to be grown 
 # Resource Utilized
-   . Kaggle DataSet
-   . Google Colab
+   Kaggle DataSet,Google Colab
 # Technologies used
-   . Machine Learning Algorithms 
+   Machine Learning Algorithms 
 # Language Used
-   . Python
+   Python
